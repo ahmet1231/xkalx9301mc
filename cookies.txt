@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.synapsecdn.to	TRUE	/	FALSE	1999999999	__cfduid	da4f57efce9f1ed2c9658861c87e9b8e31620119932
+cdn1.synapsecdn.to	TRUE	/	FALSE	1999999999	SameSite	Lax
+
