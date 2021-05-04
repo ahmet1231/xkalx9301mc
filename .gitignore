@@ -1,3 +1,2 @@
-synapse
-.env
-/.env
+# Build and Release Folders
+rel/
